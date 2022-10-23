@@ -11,10 +11,8 @@
   Data Processing
   </h1>
   
-  <h4>Encoding:</h4>
+  <h4>Encoding:</h4> Converting to
+  
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- 1 for unique quantity >=1
+- 0 for unique quantity <=0
