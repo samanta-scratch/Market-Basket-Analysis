@@ -10,3 +10,9 @@
 <h1>
   Data Processing
   </h1>
+  
+  Encoding:
+Converting to 1 for unique quantity >=1
+Converting to 0 for unique quantity <=0
+
+
