@@ -5,6 +5,7 @@
 
 ```bash
 from mlxtend.frequent_patterns import apriori, association_rules
+import networkx as nx
 ```
 
 ##  Data Processing
