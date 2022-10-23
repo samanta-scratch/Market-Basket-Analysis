@@ -36,3 +36,12 @@ rules[(rules['lift'] >= 6) &
 
 ## Network Graph of relationships between the products
 ![image](https://user-images.githubusercontent.com/113231185/197387634-23d411e1-90c5-4a04-8fba-cfae82931f59.png)
+
+## Data-driven marketing strategy and decision making
+
+Item Placements:
+Keeping 1.5V IND AAA ALK BULK and 1.5V IND AA ALK BULK in a closer place, maybe in a same shelf or any other closer place
+Products Bundling
+Keeping 1.5V IND AAA ALK BULK and 1.5V IND AA ALK BULK as a single bundle of product with a lower price compare to each price combined -attracting more sales and generates more income
+Customer Recommendation and Discounts:
+Keeping 1.5V IND AAA ALK BULK in the cashier, so that every time a customer bought 1.5V IND AA ALK BULK, seller could offer and recommend them to buy 1.5V IND AAA ALK BULK with a lower price
