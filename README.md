@@ -50,3 +50,8 @@ Keeping 1.5V IND AAA ALK BULK and 1.5V IND AA ALK BULK as a single bundle of pro
 - Customer Recommendation and Discounts:
 
 Keeping 1.5V IND AAA ALK BULK in the cashier, so that every time a customer bought 1.5V IND AA ALK BULK, seller could offer and recommend them to buy 1.5V IND AAA ALK BULK with a lower price
+
+## Conclusions
+- Market Basket analysis is done using Apriori Algorithm and Association Rules
+- Recommendation is provided for Upselling and Cross Selling through giving ideas of Item Placements, Product Bundling and Applying Discounts
+- Rules are visualized through 3D Scatter Plot and Network Graph
