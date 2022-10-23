@@ -19,14 +19,6 @@
 ## Usage
 
 ```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+rules[(rules['lift'] >= 6) &
+       (rules['confidence'] >= 0.5)]
 ```
