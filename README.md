@@ -33,3 +33,6 @@ import networkx as nx
 rules[(rules['lift'] >= 6) &
        (rules['confidence'] >= 0.5)]
 ```
+
+## Network Graph of relationships between the products
+![image](https://user-images.githubusercontent.com/113231185/197387634-23d411e1-90c5-4a04-8fba-cfae82931f59.png)
