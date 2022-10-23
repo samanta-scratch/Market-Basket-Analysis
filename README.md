@@ -1,5 +1,3 @@
-# Market-Basket-Analysis
-
 
 ## Import packages
 
