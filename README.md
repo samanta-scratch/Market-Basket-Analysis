@@ -1,10 +1,8 @@
 # Market-Basket-Analysis
 <img src="https://miro.medium.com/max/2880/1*DHfQvlMVBaJCHpYmj1kmCw.png">
 
+##  Data Processing
 
-<h1>
-  Data Processing
-  </h1>
   
   <h4>Encoding:</h4> Converting to
   
