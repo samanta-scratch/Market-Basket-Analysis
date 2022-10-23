@@ -18,4 +18,9 @@
 
 ![Fundamentals-of-association-rule-mining-https-doiorg-101371-journalpone0258348g002](https://user-images.githubusercontent.com/113231185/197386047-8b43b1fe-d08b-421f-8de6-30f10be01ac7.png)
 
+<h1>
+  Most Strengthened Rules
+  </h1
+
+![image](https://user-images.githubusercontent.com/113231185/197386527-6f129e30-fc96-496a-8c6c-c42e85dc5a11.png)
 
