@@ -12,8 +12,6 @@
   </h1>
   
   <h4>Encoding:</h4>
-- Converting to 1 for unique quantity >=1
-- Converting to 0 for unique quantity <=0
 
 - My old projects
 - Restaurant Recommendation App (React-Native)
