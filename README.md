@@ -1,6 +1,14 @@
 # Market-Basket-Analysis
 <img src="https://miro.medium.com/max/2880/1*DHfQvlMVBaJCHpYmj1kmCw.png">
 
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install foobar
+```
+
 ##  Data Processing
 
   
