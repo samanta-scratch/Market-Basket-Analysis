@@ -22,5 +22,7 @@
   Most Strengthened Rules
   </h1
 
-![image](https://user-images.githubusercontent.com/113231185/197386527-6f129e30-fc96-496a-8c6c-c42e85dc5a11.png)
+Code:
+  rules[(rules['lift'] >= 6) &
+        (rules['confidence'] >= 0.5)]
 
