@@ -27,9 +27,9 @@
   ```sh
   !pip install mlxtend
   ```
- * mlxtend
+ * networkx
   ```sh
-  !pip install mlxtend
+  !pip install networkx
   ```
 
 ## Features
