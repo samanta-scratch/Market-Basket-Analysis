@@ -16,8 +16,7 @@
 
 
 ## Introduction
-- Find insights about frequently bought items.
-- Provide recommendations to increase up-selling, cross-selling
+To increase sell by finding the best ways to create promotions or apply discounts on particular items and finding the pattern occuring to sales to apply promotions more accurately.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
