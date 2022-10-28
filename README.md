@@ -31,6 +31,7 @@
   ```sh
   !pip install networkx
   ```
+  NetworkX requires Python 3.8, 3.9, or 3.10
 
 ## Features
 List the ready features here:
