@@ -27,7 +27,7 @@ To increase sell by finding the best ways to create promotions or apply discount
   ```
  
 ## Technologies
-- Python - 3.10
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - Jupyter Notebook
 
 ## Used Algorithm
