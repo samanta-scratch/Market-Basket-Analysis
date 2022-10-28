@@ -6,7 +6,7 @@
 * [Packages](#packages)
 * [Used Algorithm](#algo)
 * [Visualization](#visual)
-* [Contrubuting](#contubution)
+* [Contributing](#contubution)
 
 
 ## Introduction
