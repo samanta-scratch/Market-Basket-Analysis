@@ -4,7 +4,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Packages](#packages)
-* [Features](#features)
+* [Used Algorithm](#algo)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
@@ -32,11 +32,11 @@ To increase sell by finding the best ways to create promotions or apply discount
   ```
   
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+## Used Algorithm
+
+- Apriori
+- Association_rules
+
 
 
 ## Screenshots
