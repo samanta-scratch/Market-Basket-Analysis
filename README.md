@@ -24,12 +24,11 @@
 
 ## Packages
 - pip install mlxtend  
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
-* npm
+
+* mlxtend
   ```sh
-  npm install npm@latest -g
+  pip install mlxtend@latest -g
   ```
 
 ## Features
