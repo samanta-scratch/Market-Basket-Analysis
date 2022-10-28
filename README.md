@@ -16,8 +16,8 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
+- Find insights about frequently bought items.
+- Provide recommendations to increase up-selling, cross-selling
 - What is the purpose of your project?
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
