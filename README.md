@@ -40,8 +40,10 @@ To increase sell by finding the best ways to create promotions or apply discount
 
 
 ## Visualization
-![Screenshot](../Images/Screenshot (192).png)
+
 ![image](https://user-images.githubusercontent.com/113231185/198506868-c4e14662-71f8-46c6-97d9-61fbb6806a58.png)
+
+![image](https://user-images.githubusercontent.com/113231185/198507039-a6af1b85-5215-4053-874d-9434d7f4c10c.png)
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
