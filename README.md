@@ -2,7 +2,7 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Introduction](#introduction)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
@@ -15,9 +15,10 @@
 <!-- * [License](#license) -->
 
 
-## General Information
+## Introduction
 - Find insights about frequently bought items.
 - Provide recommendations to increase up-selling, cross-selling
+
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
