@@ -4,6 +4,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Packages](#packages)
+* [Technologies](#tech)
 * [Used Algorithm](#algo)
 * [Visualization](#visual)
 * [Contributing](#contubution)
@@ -24,7 +25,10 @@ To increase sell by finding the best ways to create promotions or apply discount
   ```sh
   !pip install networkx
   ```
-  
+ 
+## Technologies
+- Python - 3.10
+- Jupyter Notebook
 
 ## Used Algorithm
 
