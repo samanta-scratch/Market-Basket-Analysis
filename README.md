@@ -25,7 +25,11 @@
 ## Packages
  * mlxtend
   ```sh
-  pip install mlxtend
+  !pip install mlxtend
+  ```
+ * mlxtend
+  ```sh
+  !pip install mlxtend
   ```
 
 ## Features
