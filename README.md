@@ -40,7 +40,7 @@ To increase sell by finding the best ways to create promotions or apply discount
 
 
 ## Visualization
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./Images/Screenshot (192).png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
