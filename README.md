@@ -1,62 +1,90 @@
+# Project Name
+> Outline a brief description of your project.
+> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Import packages
-
-```bash
-from mlxtend.frequent_patterns import apriori, association_rules
-import networkx as nx
-```
-
-## Top 15 products by unique purchases
-
-![image](https://user-images.githubusercontent.com/113231185/197387574-fc3a8ee7-e10e-4e9c-980f-d52d10507842.png)
-
-
-##  Data Processing
-
-  
-  <h4>Encoding:</h4> Converting to
-  
-
-- 1 for unique quantity >=1
-- 0 for unique quantity <=0
-
-## Association Rule Mining
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
 
-![Fundamentals-of-association-rule-mining-https-doiorg-101371-journalpone0258348g002](https://user-images.githubusercontent.com/113231185/197386047-8b43b1fe-d08b-421f-8de6-30f10be01ac7.png)
+## General Information
+- Provide general information about your project here.
+- What problem does it (intend to) solve?
+- What is the purpose of your project?
+- Why did you undertake it?
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Most Strengthened Rules
+## Technologies Used
+- Tech 1 - version 1.0
+- Tech 2 - version 2.0
+- Tech 3 - version 3.0
 
 
-```python
-rules[(rules['lift'] >= 6) &
-       (rules['confidence'] >= 0.5)]
-```
+## Features
+List the ready features here:
+- Awesome feature 1
+- Awesome feature 2
+- Awesome feature 3
 
-## Network Graph of relationships between the products
-![image](https://user-images.githubusercontent.com/113231185/197387634-23d411e1-90c5-4a04-8fba-cfae82931f59.png)
 
-## Data-driven marketing strategy and decision making
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
 
-- Item Placements:
 
-Keeping 1.5V IND AAA ALK BULK and 1.5V IND AA ALK BULK in a closer place, maybe in a same shelf or any other closer place
+## Setup
+What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-- Products Bundling :
+Proceed to describe how to install / setup one's local environment / get started with the project.
 
-Keeping 1.5V IND AAA ALK BULK and 1.5V IND AA ALK BULK as a single bundle of product with a lower price compare to each price combined -attracting more sales and generates more income
 
-- Customer Recommendation and Discounts:
+## Usage
+How does one go about using it?
+Provide various use cases and code examples here.
 
-Keeping 1.5V IND AAA ALK BULK in the cashier, so that every time a customer bought 1.5V IND AA ALK BULK, seller could offer and recommend them to buy 1.5V IND AAA ALK BULK with a lower price
+`write-your-code-here`
 
-## Conclusions
-- Market Basket analysis is done using Apriori Algorithm and Association Rules
-- Recommendation is provided for Upselling and Cross Selling through giving ideas of Item Placements, Product Bundling and Applying Discounts
-- Rules are visualized through 3D Scatter Plot and Network Graph
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Project Status
+Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 
-Please make sure to update tests as appropriate.
+
+## Room for Improvement
+Include areas you believe need improvement / could be improved. Also add TODOs for future development.
+
+Room for improvement:
+- Improvement to be done 1
+- Improvement to be done 2
+
+To do:
+- Feature to be added 1
+- Feature to be added 2
+
+
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- This project was based on [this tutorial](https://www.example.com).
+- Many thanks to...
+
+
+## Contact
+Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
+
