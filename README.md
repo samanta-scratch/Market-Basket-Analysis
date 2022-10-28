@@ -5,7 +5,7 @@
 * [Introduction](#introduction)
 * [Packages](#packages)
 * [Used Algorithm](#algo)
-* [Screenshots](#screenshots)
+* [Visualization](#visual)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -39,7 +39,7 @@ To increase sell by finding the best ways to create promotions or apply discount
 
 
 
-## Screenshots
+## Visualization
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
