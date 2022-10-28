@@ -23,10 +23,14 @@
 
 
 ## Packages
-- Tech 1 - version 1.0
+- pip install mlxtend  
 - Tech 2 - version 2.0
 - Tech 3 - version 3.0
 
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
 ## Features
 List the ready features here:
