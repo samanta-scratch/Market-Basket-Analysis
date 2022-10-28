@@ -1,4 +1,5 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![MBA](https://miro.medium.com/max/2880/1*DHfQvlMVBaJCHpYmj1kmCw.png)
+
 
 # Market Basket Analysis
 > Outline a brief description of your project.
