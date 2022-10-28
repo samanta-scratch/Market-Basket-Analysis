@@ -27,7 +27,7 @@
   ```sh
   !pip install mlxtend
   ```
- * networkx:networkx requires Python 3.8, 3.9, or 3.10.
+ * networkx : networkx requires Python 3.8, 3.9, or 3.10.
   ```sh
   !pip install networkx
   ```
