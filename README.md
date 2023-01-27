@@ -43,7 +43,7 @@ To increase sell by finding the best ways to create promotions or apply discount
 
 ![image](https://user-images.githubusercontent.com/113231185/198507039-a6af1b85-5215-4053-874d-9434d7f4c10c.png)
 
-![image](https://user-images.githubusercontent.com/113231185/198507229-eae65907-8120-419d-ab3f-9166ae46951f.png)
+![Screenshot (363)](https://user-images.githubusercontent.com/113231185/215022899-f8add618-e5ba-4a66-96ab-e45e29256656.png)
 
 
 <!-- If you have screenshots you'd like to share, include them here. -->
